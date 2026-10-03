@@ -1,4 +1,4 @@
-Physic's student, I write some code from time to time. 
+Physics student, I write some code from time to time. 
 
 <!---
 pltps/pltps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
